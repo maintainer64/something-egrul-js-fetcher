@@ -1,0 +1,12 @@
+{
+  "name": "egrul-fetcher",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "fastify": "^4.28.1"
+  }
+}
